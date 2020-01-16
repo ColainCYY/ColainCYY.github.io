@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is Colain Cui, 
+This is Colain Cui, a master graduate of BUPT, once hired by Baidu and now Netease.
+
+I'm a NLP engineer who keeps learning.
 
 
 [github][my-github] /
