@@ -6,7 +6,7 @@ permalink: /about/
 
 This is Colain Cui, a master graduate of BUPT, once hired by Baidu and now Netease.
 
-I'm a NLP engineer who keeps learning.
+I'm a NLP engineer who keeps learning. ^___^
 
 
 [github][my-github] /
